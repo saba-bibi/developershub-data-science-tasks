@@ -1,6 +1,10 @@
 # developershub-data-science-tasks
 A collection of Data Science &amp; Analytics internship tasks completed for DevelopersHub Corporation, including data exploration, visualization, predictive modeling, and evaluation.
 
+
+Submitted by: Saba Bibi
+DHC-190
+
 # Task 1: Exploring and Visualizing the Iris Dataset (EDA)
 
 ##🎯 Project Objective
